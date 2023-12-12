@@ -9,6 +9,7 @@ The AI Assistant Application is an interactive, AI-powered interface designed to
 - Python 3.8 or higher
 - langchain
 - pinecone
+- streamlit
 - sphynx (shall be added to PATH to automatically build the documentation)
 - packages needed for the build of the documentation
 
